@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tempuncert.aux
+A level-1 auxiliary file: tempmeas/tempmeas.aux
+A level-1 auxiliary file: temperror/temperror.aux
+The style file: atlasnote.bst
+Database file #1: thebib.bib
+Warning--entry type for "sundata" isn't style-file defined
+--line 234 of file thebib.bib
+Warning--entry type for "sundata2" isn't style-file defined
+--line 237 of file thebib.bib
+Warning--entry type for "sunparam" isn't style-file defined
+--line 241 of file thebib.bib
+I was expecting an "="---line 260 of file thebib.bib
+ : @Comment 
+ :          author = {Doe, Ringo},
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 261 of file thebib.bib
+ : @comment title = {This is a test entry of type {@ONLINE
+ :                                                        }},
+I'm skipping whatever remains of this entry
+`howpublished' is a missing field, not a string, for entry sundata
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in sundata
+`howpublished' is a missing field, not a string, for entry sundata2
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in sundata2
+`howpublished' is a missing field, not a string, for entry sunparam
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in sunparam
+You've used 3 entries,
+            2318 wiz_defined-function locations,
+            540 strings with 3872 characters,
+and the built_in function-call counts, 380 in all, are:
+= -- 30
+> -- 3
+< -- 0
++ -- 3
+- -- 0
+* -- 12
+:= -- 32
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 21
+empty$ -- 64
+format.name$ -- 0
+if$ -- 106
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 9
+newline$ -- 12
+num.names$ -- 0
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 0
+width$ -- 4
+write$ -- 17
+(There were 5 error messages)

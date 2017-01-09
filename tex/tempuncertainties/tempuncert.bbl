@@ -1,0 +1,12 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{sundata}
+\url{http://omniweb.gsfc.nasa.gov/form/dx1.html}.
+
+\bibitem{sundata2}
+\url{http://www.spaceweather.gc.ca/solarflux/sx-5-en.php}.
+
+\bibitem{sunparam}
+\url{http://www.spaceacademy.net.au/spacelink/solrfi/solrfi.htm}.
+
+\end{thebibliography}\endgroup

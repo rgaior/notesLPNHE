@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: simulation.aux
+A level-1 auxiliary file: introduction/introduction.aux
+A level-1 auxiliary file: simplechecks/simplechecks.aux
+The style file: atlasnote.bst
+Database file #1: thebib.bib
+I was expecting an "="---line 255 of file thebib.bib
+ : @Comment 
+ :          author = {Doe, Ringo},
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 256 of file thebib.bib
+ : @comment title = {This is a test entry of type {@ONLINE
+ :                                                        }},
+I'm skipping whatever remains of this entry
+You've used 2 entries,
+            2318 wiz_defined-function locations,
+            556 strings with 4299 characters,
+and the built_in function-call counts, 841 in all, are:
+= -- 78
+> -- 43
+< -- 0
++ -- 15
+- -- 13
+* -- 88
+:= -- 110
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 44
+empty$ -- 67
+format.name$ -- 13
+if$ -- 211
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 8
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 38
+stack$ -- 0
+substring$ -- 24
+swap$ -- 26
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 4
+width$ -- 3
+write$ -- 20
+(There were 2 error messages)

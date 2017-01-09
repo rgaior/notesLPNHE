@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: mainfile.aux
+A level-1 auxiliary file: install/install.aux
+The style file: atlasnote.bst
+Database file #1: thebib.bib
+I was expecting an "="---line 255 of file thebib.bib
+ : @Comment 
+ :          author = {Doe, Ringo},
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 256 of file thebib.bib
+ : @comment title = {This is a test entry of type {@ONLINE
+ :                                                        }},
+I'm skipping whatever remains of this entry
+Warning--entry type for "lnatesting" isn't style-file defined
+--line 359 of file thebib.bib
+Warning--entry type for "helixstatusmay2016" isn't style-file defined
+--line 363 of file thebib.bib
+Warning--entry type for "measurementsdec2016" isn't style-file defined
+--line 366 of file thebib.bib
+Warning--entry type for "schemaelec" isn't style-file defined
+--line 370 of file thebib.bib
+`howpublished' is a missing field, not a string, for entry helixstatusmay2016
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in helixstatusmay2016
+`howpublished' is a missing field, not a string, for entry lnatesting
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in lnatesting
+`howpublished' is a missing field, not a string, for entry measurementsdec2016
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in measurementsdec2016
+`howpublished' is a missing field, not a string, for entry schemaelec
+while executing---line 1152 of file atlasnote.bst
+Warning--all relevant fields are empty in schemaelec
+You've used 4 entries,
+            2318 wiz_defined-function locations,
+            541 strings with 4106 characters,
+and the built_in function-call counts, 499 in all, are:
+= -- 40
+> -- 4
+< -- 0
++ -- 4
+- -- 0
+* -- 15
+:= -- 39
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 28
+empty$ -- 85
+format.name$ -- 0
+if$ -- 141
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 12
+newline$ -- 15
+num.names$ -- 0
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 0
+width$ -- 5
+write$ -- 22
+(There were 6 error messages)

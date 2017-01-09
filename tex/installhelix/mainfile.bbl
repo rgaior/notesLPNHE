@@ -1,0 +1,15 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{helixstatusmay2016}
+\url{https://atrium.in2p3.fr/nuxeo/nxdoc/default/3d986fe3-ce9b-4e1f-a84a-55389a175ef9/view_documents}.
+
+\bibitem{lnatesting}
+\url{https://atrium.in2p3.fr/nuxeo/nxdoc/default/20cbab5c-01a5-4856-af99-9045cd0659f8/view_documents}.
+
+\bibitem{measurementsdec2016}
+\url{https://atrium.in2p3.fr/nuxeo/nxdoc/default/d5c6a4a2-c5c3-4402-887c-2bcdcf6f2f35/view_documents}.
+
+\bibitem{schemaelec}
+\url{https://atrium.in2p3.fr/nuxeo/nxdoc/default/67ebc613-fbfa-45dc-b4c6-552d843a0885/view_documents}.
+
+\end{thebibliography}\endgroup

@@ -1,0 +1,100 @@
+\@setckpt{temperror/temperror}{
+\@setckpt{tempmeas/tempmeas}{
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Left: Sun transit for the two solstices. The colored circles represent the field of view of the GIGADuck antennas. Right: Example of the baseline during one day. In blue is the orignal baseline when the mean is subtracted, in green after it was corrected from temperature dependence and in red is a gaussian fit of to extract the signal from the sun.}}{2}{figure.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces sun flux for at different frequencies}}{4}{figure.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Effective area of the AInfo antenna from HFSS simulation (blue), gaussian fit (green). Right: relative uncertainty on the effective area}}{5}{figure.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Zenith angle when the sun signal is maximum as a function of the date}}{5}{figure.4}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{6}{figure.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}temperature measurement}{2}{section.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Temperature measurement uncertainties}{4}{section.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Sun flux uncertainties}{4}{subsection.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Effective area uncertainties}{5}{subsection.2.2}}
+\@writefile{toc}{\select@language{english}}
+\AC@reset@newl@bel
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\bibdata{thebib}
+\bibstyle{atlasnote}
+\citation{sundata2}
+\citation{sundata}
+\citation{sunparam}
+\fi}
+\fi}
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\global\let\hyper@last\relax 
+\global\let\oldcontentsline\contentsline
+\global\let\oldnewlabel\newlabel
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\hyper@newdestlabel[2]{}
+\select@language{english}
+\setcounter{@todonotes@numberoftodonotes}{0}
+\setcounter{@todonotes@numberoftodonotes}{0}
+\setcounter{Hfootnote}{0}
+\setcounter{Hfootnote}{0}
+\setcounter{Item}{0}
+\setcounter{Item}{0}
+\setcounter{LN@truepage}{3}
+\setcounter{LN@truepage}{5}
+\setcounter{bookmark@seq@number}{1}
+\setcounter{bookmark@seq@number}{4}
+\setcounter{enumiii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumii}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiv}{0}
+\setcounter{enumiv}{0}
+\setcounter{enumi}{0}
+\setcounter{enumi}{0}
+\setcounter{equation}{0}
+\setcounter{equation}{2}
+\setcounter{figure}{1}
+\setcounter{figure}{4}
+\setcounter{float@type}{4}
+\setcounter{float@type}{4}
+\setcounter{footnote}{0}
+\setcounter{footnote}{0}
+\setcounter{linenumber}{29}
+\setcounter{linenumber}{62}
+\setcounter{lofdepth}{1}
+\setcounter{lofdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{lotdepth}{1}
+\setcounter{mpfootnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{page}{4}
+\setcounter{page}{6}
+\setcounter{paragraph}{0}
+\setcounter{paragraph}{0}
+\setcounter{parentequation}{0}
+\setcounter{parentequation}{0}
+\setcounter{part}{0}
+\setcounter{part}{0}
+\setcounter{section@level}{1}
+\setcounter{section@level}{2}
+\setcounter{section}{1}
+\setcounter{section}{2}
+\setcounter{subfigure}{0}
+\setcounter{subfigure}{0}
+\setcounter{subparagraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{subsection}{0}
+\setcounter{subsection}{2}
+\setcounter{subsubsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{subtable}{0}
+\setcounter{subtable}{0}
+\setcounter{table}{0}
+\setcounter{table}{0}
+}
+}

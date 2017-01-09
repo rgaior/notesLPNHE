@@ -1,0 +1,110 @@
+\documentclass[twoside, final, 11pt]{articleMine}
+\usepackage[english]{babel} \usepackage{a4wide}
+\usepackage{amsmath,amssymb,accents} \usepackage{epsfig}
+\usepackage{subfigure} \usepackage{units} \usepackage{graphicx}
+\usepackage[displaymath, mathlines, right]{lineno} \usepackage{xspace}
+\usepackage{color} \usepackage{epic,eepic,pstricks}
+\usepackage{acronym} \usepackage{wrapfig,multicol}
+\usepackage{deluxetable} \usepackage{todonotes} 
+\usepackage{hyperref}
+\usepackage{float}
+%\usepackage{slashbox}
+\usepackage{lmodern} 
+%\usepackage{caption}
+\linenumbers
+%\usepackage{showlabels}
+\usepackage[draft]{showkeys}
+
+%\usepackage[nolists, tablesfirst]{endfloat}
+\graphicspath{{plots/}}
+\newcommand*\patchAmsMathEnvironmentForLineno[1]{%
+  \expandafter\let\csname old#1\expandafter\endcsname\csname #1\endcsname
+  \expandafter\let\csname oldend#1\expandafter\endcsname\csname end#1\endcsname
+  \renewenvironment{#1}%
+     {\linenomath\csname old#1\endcsname}%
+     {\csname oldend#1\endcsname\endlinenomath}}%
+\newcommand*\patchBothAmsMathEnvironmentsForLineno[1]{%
+  \patchAmsMathEnvironmentForLineno{#1}%
+  \patchAmsMathEnvironmentForLineno{#1*}}%
+\AtBeginDocument{%
+\patchBothAmsMathEnvironmentsForLineno{equation}%
+\patchBothAmsMathEnvironmentsForLineno{align}%
+\patchBothAmsMathEnvironmentsForLineno{flalign}%
+\patchBothAmsMathEnvironmentsForLineno{alignat}%
+\patchBothAmsMathEnvironmentsForLineno{gather}%
+\patchBothAmsMathEnvironmentsForLineno{multline}%
+}
+%\AtBeginFigures{\cleardoublepage}
+%%%%%\parindent 5pt  
+\parskip 1.2pt           % sets spacing between paragraphs
+\def\Offline{\mbox{$\overline{\rm
+Off}$\hspace{.05em}\raisebox{.4ex}{$\underline{\rm line}$}}\xspace}
+\def\OfflineB{\mbox{$\bf\overline{\rm\bf
+Off}$\hspace{.05em}\raisebox{.4ex}{$\bf\underline{\rm\bf line}$}}\xspace}
+
+\def\eq#1{\begin{equation}#1\end{equation}}
+%\def\al#1{\begin{align}#1\end{align}}
+%\def\vc#1{{\bf #1}}
+\def\pt#1{\accentset{\rightharpoonup}{#1}}
+\include{myabbr}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\newcommand{\VEM}{\mbox{VEM}}
+\newcommand{\m}{\mbox{m}}
+
+\let\stdsection\section  
+%\renewcommand\section{\newpage\stdsection}  
+ 
+\begin{document}
+
+%\setpagewiselinenumbers
+\modulolinenumbers[2]
+
+%\linenumbers
+
+
+\renewcommand\linenumberfont{\small\rmfamily}
+\begin{center}
+  \vspace*{-13ex}
+
+  \rule{\linewidth}{0.1mm}  \\[17mm] {\huge  Installation of the new electronics for the Helix array (Malargue December 2016)}
+     \begin{flushright}
+       \small 
+     
+     \end{flushright}
+
+  % 
+\end{center}
+% 
+\vspace*{2ex} 
+%
+\thispagestyle{empty}
+\noindent
+\begin{abstract}
+  \noindent
+  A first  report on the installation  of the helix  antennas with the
+  new electronics. We present also some results from onsite measurements.
+\end{abstract}
+\begin{figure}[ht!]
+  \centering
+  \hspace*{-3ex}
+%%  \subfigure{\includegraphics[width=0.49\linewidth]{/Users/romain/work/Auger/EASIER/LPNHE/notes/tex/installhelix/plotsantoinehelix.jpg}}
+  \subfigure{\includegraphics[width=0.49\linewidth]{antoinehelix.png}}
+  \label{fig:monit}
+\end{figure}
+%
+\thispagestyle{empty}
+%$\;$
+%\listoftodos
+%\newpage
+\noindent
+\include{install/install}
+%%\include{description/description}
+%%\include{conclusion/conclusion}
+
+\addcontentsline{toc}{chapter}{Bibliography}                                 
+\bibliographystyle{atlasnote}
+\bibliography{thebib}
+%% \newpage
+
+\end{document}

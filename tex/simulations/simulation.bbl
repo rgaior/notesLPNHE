@@ -1,0 +1,20 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{gorham}
+P.~Gorham, N.~Lehtinen, G.~Varner, J.~Beatty, A.~Connolly, et al., {\em
+  {Observations of Microwave Continuum Emission from Air Shower Plasmas}\/},
+  \href{http://dx.doi.org/10.1103/PhysRevD.78.032007}{Phys.Rev. {\bf D78}
+  (2008)  032007},
+\href{http://arxiv.org/abs/0705.2589}{{\tt arXiv:0705.2589 [astro-ph]}}.
+%%CITATION = ARXIV:0705.2589;%%.
+
+\bibitem{imen2016}
+I.~Al~Samarai, C.~Bérat, O.~Deligny, A.~Letessier-Selvon, F.~Montanet,
+  M.~Settimo, and P.~Stassi, {\em {Molecular Bremsstrahlung Radiation at GHz
+  Frequencies in Air}\/},
+  \href{http://dx.doi.org/10.1103/PhysRevD.93.052004}{Phys. Rev. {\bf D93}
+  (2016) no.~5, 052004},
+\href{http://arxiv.org/abs/1601.00551}{{\tt arXiv:1601.00551 [astro-ph.IM]}}.
+%%CITATION = ARXIV:1601.00551;%%.
+
+\end{thebibliography}\endgroup
